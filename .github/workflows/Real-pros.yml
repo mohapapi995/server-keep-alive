@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Pinging IDX Server
         run: |
-          curl -s https://9000-firebase-real-pros-1767945983090.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev/?monospaceUid=324643
+          curl -s https://9000-firebase-real-pros-1767945983090.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev/?monospaceUid=800752
           echo "Successfully pinged at $(date)"
